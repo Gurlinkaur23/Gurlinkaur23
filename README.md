@@ -22,16 +22,10 @@ My programming experience includes 💻 HTML, 🎨 CSS, and 🚀 JavaScript. I a
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> -->
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurlinkaur23&show_icons=true&theme=radical)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurlinkaur23&langs_count=5&theme=tokyonight)]() -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurlinkaur23&show_icons=true&theme=radical)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurlinkaur23&langs_count=5&theme=tokyonight)]()
 
-<a href="https://github.com/mrspecht">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Gurlinkaur23&theme=vue&show_icons=true" alt="My GitHub stats" />
-</a>
-<a href="https://github.com/mrspecht">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurlinkaur23&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
-  GitHub stats"/>
-</a>
+
 
 
 <!--
