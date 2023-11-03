@@ -14,15 +14,17 @@ My programming experience includes 💻 HTML, 🎨 CSS, and 🚀 JavaScript. I a
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on open source/commercial projects.
 - 🤝 Let's connect and share our coding journeys! Feel free to reach out.
-  -[LinkedIn](https://www.linkedin.com/in/gurlinkaur)
-  -[Instagram](https://www.instagram.com/gurlinkaur__)
+  LinkedIn: [gurlinkaur](https://www.linkedin.com/in/gurlinkaur)
+  Instagram: [gurlinkaur__](https://www.instagram.com/gurlinkaur__)
+  -- LinkedIn: <a href="https://www.linkedin.com/in/gurlinkaur" target="_blank">gurlinkaur</a>
+  -- Instagram: <a href="https://www.instagram.com/gurlinkaur__" target="_blank">gurlinkaur__</a>
 
 ## My skills
 <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
 <img src="https://img.shields.io/badge/web-html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/>&nbsp;
 <img src="https://img.shields.io/badge/web-css3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/>&nbsp;
 
-## Mt stats
+## My stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurlinkaur23&show_icons=true&theme=radical)
 <br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurlinkaur23&langs_count=5&theme=tokyonight)]()
