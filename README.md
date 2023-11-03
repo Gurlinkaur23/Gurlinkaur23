@@ -1,4 +1,6 @@
-![](./github-header.png)
+<p align="center">
+  <img src="./github-header.png" alt="Banner Image" style="width:100%;">
+</p>
 
 ## About me
 
