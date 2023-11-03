@@ -1,3 +1,5 @@
+![](./github-banner)
+
 ## About me
 
 Hello world👋. I am Gurlin Kaur, a junior Software Developer based in Winnipeg, Canada.
