@@ -18,11 +18,10 @@ My programming experience includes 💻 HTML, 🎨 CSS, and 🚀 JavaScript. I a
 <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
 <img src="https://img.shields.io/badge/web-html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/>&nbsp;
 <img src="https://img.shields.io/badge/web-css3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/>&nbsp;
-<!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> -->
 
+## Mt stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurlinkaur23&show_icons=true&theme=radical)
+<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurlinkaur23&langs_count=5&theme=tokyonight)]()
 
 
