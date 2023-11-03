@@ -8,11 +8,14 @@ Hello world👋. I am Gurlin Kaur, a junior Software Developer and a student bas
 
 I am basically from India and moved to Canada to pursue software development. I find joy in coding and listening to music.
 
-My programming experience includes 💻 HTML, 🎨 CSS, and 🚀 JavaScript. I am excited to learn more and deepen my knowledge and become a professional developer.
+My programming experience includes 💻 HTML, 🎨 CSS, and 🚀 JavaScript. I am planning to learn C#, React, advanced database concepts, and much more in my coding journey. I'm excited to explore new technologies and deepen my knowledge and become a professional developer.
 
 - 📚 I’m currently studying software development at MITT, Winnipeg.
 - 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 👯 I’m looking to collaborate on open source/commercial projects.
+- 🤝 Let's connect and share our coding journeys! Feel free to reach out.
+  -[LinkedIn](https://www.linkedin.com/in/gurlinkaur)
+  -[Instagram](https://www.instagram.com/gurlinkaur__)
 
 ## My skills
 <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
