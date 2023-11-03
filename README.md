@@ -1,4 +1,4 @@
-![](./github-banner)
+![](./github-banner.png)
 
 ## About me
 
