@@ -1,4 +1,10 @@
-### Hi there 👋
+## About me
+
+Hello world👋. I am Gurlin Kaur, a junior Software Developer based in Winnipeg, Canada.
+
+I am basically from India and moved to Canada to pursue software development. I find joy in coding and listening to music.
+
+I’m currently learning JavaScript. My programming experience includes 💻 HTML, 🎨 CSS, and 🚀 JavaScript. I am excited to learn more and deepen my knowledge and become a professional developer.
 
 <!--
 **Gurlinkaur23/Gurlinkaur23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
